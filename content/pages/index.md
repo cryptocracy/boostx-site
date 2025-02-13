@@ -143,7 +143,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: View on X
             altText: ''
             url: 'https://x.com/bns_community/status/1888520819279597950'
             showIcon: false

@@ -100,7 +100,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What others say about us
+    subtitle: What others say about BoostX
     items:
       - title: '"this is based"'
         tagline: '@stacks'

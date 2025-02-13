@@ -65,7 +65,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "https://cryptocracy.io/boostx-privacy.html",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

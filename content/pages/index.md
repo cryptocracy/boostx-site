@@ -106,7 +106,9 @@ sections:
         tagline: '@LeatherBTC'
         subtitle: ''
         text: |
-          BoostX works with your Leather wallet, seamlessly enabling DeFi on X
+          BoostX works with your Leather wallet.
+
+          To seamlessly enable DeFi on X.
         image:
           url: /images/LeatherWallet.webp
           altText: Maria Walters

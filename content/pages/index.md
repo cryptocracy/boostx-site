@@ -108,7 +108,7 @@ sections:
         text: |
           BoostX works with your Leather wallet, seamlessly enabling DeFi on X
         image:
-          url: /images/LeatherWalletLogo.svg
+          url: /images/LeatherWallet.webp
           altText: Maria Walters
           styles:
             self:

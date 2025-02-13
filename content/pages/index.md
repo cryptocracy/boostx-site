@@ -226,5 +226,6 @@ sections:
 seo:
   type: Seo
   metaTitle: 'BoostX: DeFi on X'
+  metaDescription: DeFi on X
 type: PageLayout
 ---

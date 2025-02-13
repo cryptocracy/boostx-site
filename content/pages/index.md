@@ -108,7 +108,7 @@ sections:
         text: |
           BoostX works with smart contracts on the Stacks blockchain.
 
-          Stacks is the leading Layer 2 of Bitcoin.
+          To leverage the security of the Bitcoin blockchain.
         image:
           url: /images/StacksLogo.jpg
           altText: Maria Walters

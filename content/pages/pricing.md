@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Transferring Tokens?
         price: 0.1 STX
-        details: per use
+        details: service fee
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.

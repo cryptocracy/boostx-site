@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: boostx
+      label: The future is now
       color: text-primary
       type: Badge
     elementId: ''

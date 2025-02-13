@@ -132,7 +132,7 @@ sections:
         tagline: '@bns_community'
         subtitle: ''
         text: >
-          BoostX leverages BNS (Bitcoin Naming System) to discover payment
+          BoostX works with BNS (Bitcoin Name System) to discover payment
           addresses automatically.
         image:
           url: /images/BNSLogo.jpg

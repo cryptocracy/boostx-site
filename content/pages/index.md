@@ -118,7 +118,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: View on X
             altText: ''
             url: 'https://x.com/Stacks/status/1888928206075355180'
             showIcon: false

@@ -26,7 +26,9 @@ sections:
           - >-
             Optimized for Microtransactions: Send any amount without worrying
             about scaling fees.
-          - Feature three
+          - >-
+            Supports Ongoing Development: Funds go towards maintaining and
+            improving BoostX
           - Feature four
           - Feature five
         image:

@@ -29,7 +29,6 @@ sections:
           - >-
             Supports Ongoing Development: Funds go towards maintaining and
             improving BoostX
-          - Feature four
           - Feature five
         image:
           url: /images/abstract-feature3.svg

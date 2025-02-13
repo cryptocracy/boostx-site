@@ -156,7 +156,7 @@ sections:
         actions:
           - type: Button
             label: View on X
-            altText: link to Leather tweet
+            altText: link to quote from Leather
             url: 'https://x.com/LeatherBTC/status/1889465325290398015'
             showIcon: false
             icon: arrowRight

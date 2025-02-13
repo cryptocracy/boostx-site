@@ -16,7 +16,7 @@ sections:
       Whether you're **sending STX, sBTC, or CC**, BoostX makes it effortless to
       **tip, reward, and transact** directly within your feed.
     actions:
-      - label: Get BoostX from Chrome Store
+      - label: Get BoostX from the Chrome Store
         altText: ''
         url: /
         showIcon: false
@@ -50,44 +50,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - title:
-      text: Built on Bitcoin
-      color: text-dark
-      type: TitleBlock
-    subtitle: BoostX is powered by smart contracts on the Stacks blockchain
-    text: |
-      Bringing the security of Bitcoin to X.
-    actions:
-      - label: Learn about Stacks
-        url: 'https://stacks.co'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -223,10 +185,48 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
+  - title:
+      text: Built on Bitcoin
+      color: text-dark
+      type: TitleBlock
+    subtitle: BoostX is powered by smart contracts on the Stacks blockchain
+    text: |
+      Bringing the security of Bitcoin to X.
+    actions:
+      - label: Get BoostX from the Chrome Store
+        url: 'https://stacks.co'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      url: /images/hero3.svg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
   type: Seo
+  metaTitle: 'BoostX: DeFi on X'
+  metaDescription: 'BoostX: DeFi on X'
+  socialImage: /images/Rocket.svg
 type: PageLayout
 ---

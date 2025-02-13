@@ -217,7 +217,7 @@ sections:
 seo:
   type: Seo
   metaTitle: BoostX
-  metaDescription: 'BoostX: DeFi on X'
+  metaDescription: BoostX
   socialImage: /images/Rocket.svg
 type: PageLayout
 ---

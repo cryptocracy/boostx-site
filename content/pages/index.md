@@ -203,7 +203,7 @@ sections:
     text: |
       Bringing the security of Bitcoin to X.
     actions:
-      - label: Learn about Stacks
+      - label: Get BoostX from the Chrome Store
         url: 'https://stacks.co'
         icon: arrowRight
         iconPosition: right

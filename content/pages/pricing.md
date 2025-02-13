@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 'Affordable, Simple, & Secure'
     plans:
-      - title: Enterprise
+      - title: Transferring Tokens?
         price: 0.1 STX
         details: per use
         description: >-

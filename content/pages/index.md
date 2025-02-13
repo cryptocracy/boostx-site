@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unlock X monetization now
+      text: DeFi on X!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

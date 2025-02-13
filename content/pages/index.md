@@ -128,7 +128,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: '""'
+      - title: "\"GM! \U0001F304 You can now send $STX tips to accounts with BNS names (.btc) on X! Huge shoutout to @cryptodude_btc for making this happen. Brilliant work! \U0001F680\""
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-

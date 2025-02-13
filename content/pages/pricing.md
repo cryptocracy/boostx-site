@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Simple, Fast, Secure'
+    subtitle: 'Affordable, Simple, & Secure'
     plans:
       - title: Developers
         price: Free

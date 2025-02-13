@@ -61,7 +61,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Business Consulting
+      text: Built on Bitcoin
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company

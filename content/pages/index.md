@@ -195,7 +195,7 @@ sections:
         actions:
           - type: Button
             label: View on X
-            altText: ''
+            altText: link to quote from BNS Community
             url: 'https://x.com/bns_community/status/1888520819279597950'
             showIcon: false
             icon: arrowRight

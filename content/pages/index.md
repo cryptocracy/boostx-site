@@ -66,8 +66,8 @@ sections:
       type: TitleBlock
     subtitle: BoostX on the Stacks blockchain
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Backed by the Security of Bitcoins, BoostX is built on the Stacks
+      blockchain.
     actions:
       - label: Get started
         url: /

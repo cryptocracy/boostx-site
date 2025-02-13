@@ -119,7 +119,7 @@ sections:
         actions:
           - type: Button
             label: View on X
-            altText: ''
+            altText: link to quote from Stacks
             url: 'https://x.com/Stacks/status/1888928206075355180'
             showIcon: false
             icon: arrowRight

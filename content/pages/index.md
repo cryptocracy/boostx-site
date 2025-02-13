@@ -69,7 +69,7 @@ sections:
       Backed by the Security of Bitcoin, BoostX is built on the Stacks
       blockchain.
     actions:
-      - label: Get started
+      - label: Learn about Stacks
         url: /
         icon: arrowRight
         iconPosition: right

@@ -141,7 +141,16 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://x.com/bns_community/status/1888520819279597950'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:

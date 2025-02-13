@@ -66,7 +66,7 @@ sections:
       type: TitleBlock
     subtitle: BoostX on the Stacks blockchain
     text: >
-      Backed by the Security of Bitcoins, BoostX is built on the Stacks
+      Backed by the Security of Bitcoin, BoostX is built on the Stacks
       blockchain.
     actions:
       - label: Get started

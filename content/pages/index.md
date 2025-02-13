@@ -185,6 +185,16 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
       text: Built on Bitcoin
       color: text-dark
@@ -213,16 +223,6 @@ sections:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
 seo:
   type: Seo
   metaTitle: 'BoostX: DeFi on X'

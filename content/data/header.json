@@ -16,7 +16,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Get BoostX from the Chrome Store",
             "altText": "",
             "url": "/",
             "showIcon": false,

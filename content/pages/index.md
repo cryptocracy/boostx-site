@@ -70,7 +70,7 @@ sections:
       blockchain.
     actions:
       - label: Learn about Stacks
-        url: /
+        url: 'https://stacks.co'
         icon: arrowRight
         iconPosition: right
         style: secondary

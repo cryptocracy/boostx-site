@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Enterprise
         price: 0.1 STX
-        details: per month
+        details: per use
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.

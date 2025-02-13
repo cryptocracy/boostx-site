@@ -225,5 +225,6 @@ sections:
         textAlign: center
 seo:
   type: Seo
+  metaTitle: 'BoostX: DeFi on X'
 type: PageLayout
 ---

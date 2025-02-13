@@ -64,7 +64,7 @@ sections:
       text: Built on Bitcoin
       color: text-dark
       type: TitleBlock
-    subtitle: BoostX is powered by a smart contract on the Stacks blockchain
+    subtitle: BoostX is powered by smart contracts on the Stacks blockchain
     text: >
       Backed by the Security of Bitcoin, BoostX is built on the Stacks
       blockchain.

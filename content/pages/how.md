@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: How it works
+      text: How BoostX works
       color: text-dark
       styles:
         self:

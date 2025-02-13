@@ -102,6 +102,34 @@ sections:
     title: null
     subtitle: What others say about us
     items:
+      - title: '"this is based"'
+        tagline: '@stacks'
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          url: /images/StacksLogo.jpg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
       - title: “Honestly these are the only two browser extensions you need in 2025”
         tagline: '@LeatherBTC'
         subtitle: ''
@@ -165,34 +193,6 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: '"this is based"'
-        tagline: '@stacks'
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/StacksLogo.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
           self:

@@ -135,7 +135,7 @@ sections:
           BoostX leverages BNS (Bitcoin Naming System) to discover payment
           addresses automatically.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/BNSLogo.jpg
           altText: John Doe
           styles:
             self:

@@ -179,7 +179,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: '"this is based"'
-        tagline: Testimonial 3
+        tagline: '@stacks'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

@@ -102,9 +102,7 @@ sections:
     title: null
     subtitle: What others say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: “Honestly these are the only two browser extensions you need in 2025”
         tagline: '@LeatherBTC'
         subtitle: 'Maria Walters, Company'
         text: >-

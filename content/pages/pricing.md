@@ -14,9 +14,13 @@ sections:
       - title: Transferring Tokens?
         price: 0.1 STX
         details: service fee
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Seamless, low-cost transactions with a fixed 0.1 STX service fee per
+          transfer.
+
+          Unlike percentage-based fees that scale with transaction size, our
+          flat-rate model keeps costs predictable and fair, whether you're
+          sending 10 STX or 10,000 STX.
         features:
           - Feature one
           - Feature two

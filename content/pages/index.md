@@ -116,7 +116,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: View on X
             altText: ''
             url: 'https://x.com/LeatherBTC/status/1889465325290398015'
             showIcon: false

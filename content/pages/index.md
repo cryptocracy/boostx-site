@@ -60,44 +60,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Built on Bitcoin
-      color: text-dark
-      type: TitleBlock
-    subtitle: BoostX is powered by smart contracts on the Stacks blockchain
-    text: |
-      Bringing the security of Bitcoin to X.
-    actions:
-      - label: Learn about Stacks
-        url: 'https://stacks.co'
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: What others say about BoostX
@@ -223,6 +185,44 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - title:
+      text: Built on Bitcoin
+      color: text-dark
+      type: TitleBlock
+    subtitle: BoostX is powered by smart contracts on the Stacks blockchain
+    text: |
+      Bringing the security of Bitcoin to X.
+    actions:
+      - label: Learn about Stacks
+        url: 'https://stacks.co'
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+    media:
+      url: /images/hero3.svg
+      altText: Dope design preview
+      type: ImageBlock
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+    type: GenericSection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
 seo:
   type: Seo
   metaTitle: 'BoostX: DeFi on X'

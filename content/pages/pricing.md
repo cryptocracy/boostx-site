@@ -22,7 +22,7 @@ sections:
           flat-rate model keeps costs predictable and fair, whether you're
           sending 10 STX or 10,000 STX.
         features:
-          - Feature one
+          - 'Predictable Costs: No hidden charges'
           - Feature two
           - Feature three
           - Feature four

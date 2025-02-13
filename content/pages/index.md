@@ -105,10 +105,10 @@ sections:
       - title: '"this is based"'
         tagline: '@stacks'
         subtitle: ''
-        text: >+
-          BoostX works with the Stacks blockchain, the premier Layer 2 of
-          Bitcoin.
+        text: |
+          BoostX works with smart contracts on the Stacks blockchain.
 
+          Stacks is the leading Layer 2 of Bitcoin.
         image:
           url: /images/StacksLogo.jpg
           altText: Maria Walters

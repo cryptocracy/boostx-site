@@ -23,7 +23,9 @@ sections:
           sending 10 STX or 10,000 STX.
         features:
           - 'Predictable Costs: No hidden charges'
-          - Feature two
+          - >-
+            Optimized for Microtransactions: Send any amount without worrying
+            about scaling fees.
           - Feature three
           - Feature four
           - Feature five

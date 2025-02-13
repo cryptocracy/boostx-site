@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: DeFi on X
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Designed to bring seamless decentralized transactions to your favorite
+      social platforms.
+
+
+      Whether you're **sending STX, sBTC, or CC**, BoostX makes it effortless to
+      **tip, reward, and transact** directly within your feed.
     actions:
       - label: Get started
         altText: ''

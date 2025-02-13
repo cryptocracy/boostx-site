@@ -131,10 +131,9 @@ sections:
       - title: "\"GM! \U0001F304 You can now send $STX tips to accounts with BNS names (.btc) on X! Huge shoutout to @cryptodude_btc for making this happen. Brilliant work! \U0001F680\""
         tagline: '@bns_community'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          BoostX leverages BNS (Bitcoin Naming System) to discover payment
+          addresses automatically.
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe

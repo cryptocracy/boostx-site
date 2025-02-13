@@ -64,7 +64,7 @@ sections:
       text: Built on Bitcoin
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: BoostX on the Stacks blockchain
     text: >
       A service that provides advice and guidance to startups and small
       businesses.

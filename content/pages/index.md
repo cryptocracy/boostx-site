@@ -147,7 +147,7 @@ sections:
         text: |
           BoostX works with BNS (Bitcoin Name System).
 
-          To discover payment addresses automatically.
+          To discover user payment addresses automatically.
         image:
           url: /images/BNSLogo.jpg
           altText: John Doe

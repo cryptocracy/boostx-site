@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: 'Affordable, Simple, & Secure'
     plans:
-      - title: Developers
+      - title: Sending STX?
         price: Free
         details: No credit card required
         description: >-

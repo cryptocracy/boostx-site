@@ -16,7 +16,7 @@ sections:
       Whether you're **sending STX, sBTC, or CC**, BoostX makes it effortless to
       **tip, reward, and transact** directly within your feed.
     actions:
-      - label: Get from Chrome Store
+      - label: Get BoostX from Chrome Store
         altText: ''
         url: /
         showIcon: false

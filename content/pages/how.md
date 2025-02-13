@@ -2,22 +2,6 @@
 type: PageLayout
 title: How it Works
 sections:
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: How it works
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    plans: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock

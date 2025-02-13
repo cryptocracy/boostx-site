@@ -137,7 +137,9 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: "\"You can now send $STX tips to accounts with BNS names (.btc) on X! Brilliant work! \U0001F680\""
+      - title: >-
+          "You can now send $STX tips to accounts with BNS names (.btc) on X!
+          Brilliant work!"
         tagline: '@bns_community'
         subtitle: ''
         text: >

@@ -69,7 +69,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Privacy Link"
         }
     ],
     "copyrightText": "Powered by Bitcoin & Stacks\n",

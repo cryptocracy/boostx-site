@@ -72,7 +72,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: Get BoostX from the Chrome Store
         url: /
         icon: arrowRight
         iconPosition: right

@@ -12,7 +12,7 @@ sections:
     subtitle: 'Affordable, Simple, & Secure'
     plans:
       - title: Enterprise
-        price: Custom
+        price: 0.1 STX
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

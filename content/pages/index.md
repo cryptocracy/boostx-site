@@ -104,7 +104,7 @@ sections:
     items:
       - title: “Honestly these are the only two browser extensions you need in 2025”
         tagline: '@LeatherBTC'
-        subtitle: (Referencing BoostX and the Leather Wallet Extensions)
+        subtitle: ''
         text: |
           BoostX works with your Leather wallet, seamlessly enabling DeFi on X
         image:

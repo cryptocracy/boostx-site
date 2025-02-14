@@ -177,8 +177,8 @@ sections:
           on Stacks.
 
 
-          While not directly integrated with BoostX, Bitflow is an amazing
-          service we love!
+          While not directly integrated with BoostX, Bitflow serves the Stacks
+          community and we love their services!
         actions:
           - type: Button
             label: View on X

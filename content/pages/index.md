@@ -178,7 +178,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/BitflowFinanceLogo.jpg
           altText: Business consulting
           elementId: ''
           styles:

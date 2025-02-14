@@ -178,7 +178,7 @@ sections:
           explicabo.
         actions:
           - type: Button
-            label: Get started
+            label: View on X
             altText: ''
             url: 'https://x.com/Bitflow_Finance/status/1890285791425052830'
             showIcon: false

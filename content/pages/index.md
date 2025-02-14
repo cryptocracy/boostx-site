@@ -172,10 +172,9 @@ sections:
         title: '"LFG"'
         tagline: '@Bitflow_Finance'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Bitflow is a powerful Dex Aggregator guaranteeing the best swap rates
+          on Stacks.
         actions:
           - type: Button
             label: View on X

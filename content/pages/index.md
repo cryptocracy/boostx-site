@@ -25,6 +25,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        label: (Coming Soon)
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/boostx2.gif
       altText: Unblock your team boost your time to production preview
@@ -235,7 +244,7 @@ sections:
     text: |
       Bringing the security of Bitcoin to X.
     actions:
-      - label: Get BoostX from the Chrome Store
+      - label: Get BoostX from Chrome Store
         url: 'https://stacks.co'
         icon: arrowRight
         iconPosition: right

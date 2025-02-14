@@ -183,6 +183,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/BitflowFinanceLogo.jpg
         actions: []
         colors: bg-dark-fg-light
         styles:

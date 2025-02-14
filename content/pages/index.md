@@ -26,7 +26,7 @@ sections:
         elementId: ''
         type: Button
       - type: Link
-        label: See Tutorials
+        label: (Coming Soon)
         altText: ''
         url: /
         showIcon: false

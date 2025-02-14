@@ -168,35 +168,6 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - type: FeaturedItem
-        title: '"LFG"'
-        tagline: '@Bitflow_Finance'
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-          url: /images/BitflowFinanceLogo.jpg
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     elementId: null
     variant: next-prev-nav
     colors: bg-light-fg-dark

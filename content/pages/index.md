@@ -169,7 +169,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - type: FeaturedItem
-        title: '@Bitflow_Finance'
+        title: '"LFG"'
         tagline: '@Bitflow_Finance'
         subtitle: Be in good company
         text: >-

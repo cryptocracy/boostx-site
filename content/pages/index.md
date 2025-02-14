@@ -175,6 +175,10 @@ sections:
         text: >
           Bitflow is a powerful Dex Aggregator guaranteeing the best swap rates
           on Stacks.
+
+
+          While not directly integrated with BoostX, Bitflow is an amazing
+          service we love!
         actions:
           - type: Button
             label: View on X

@@ -191,7 +191,7 @@ sections:
             justifyContent: center
         image:
           type: ImageBlock
-          url: /images/BitflowFinance-Logo.jpg
+          url: /images/BitflowFinanceLogo.png
           altText: Image alt text placeholder
           elementId: ''
           styles:

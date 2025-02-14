@@ -170,7 +170,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: '@Bitflow_Finance'
-        tagline: Feature 2
+        tagline: '@Bitflow_Finance'
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

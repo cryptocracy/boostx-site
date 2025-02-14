@@ -16,7 +16,7 @@ sections:
       Whether you're **sending STX, sBTC, or CC**, BoostX makes it effortless to
       **tip, reward, and transact** directly within your feed.
     actions:
-      - label: Get BoostX from the Chrome Store
+      - label: Get BoostX from Chrome Store
         altText: ''
         url: /
         showIcon: false
@@ -155,7 +155,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -168,6 +168,47 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
+      - type: FeaturedItem
+        title: '"LFG"'
+        tagline: '@Bitflow_Finance'
+        subtitle: ''
+        text: >
+          Bitflow is a powerful Dex Aggregator guaranteeing the best swap rates
+          on Stacks.
+
+
+          While not directly integrated with BoostX, Bitflow serves the Stacks
+          community and we love their services!
+        actions:
+          - type: Button
+            label: View on X
+            altText: ''
+            url: 'https://x.com/Bitflow_Finance/status/1890285791425052830'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/BitflowFinanceLogo.png
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     elementId: null
     variant: next-prev-nav
     colors: bg-light-fg-dark

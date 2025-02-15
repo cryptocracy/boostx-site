@@ -251,7 +251,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/Rocket.svg
+      url: /images/lift-off.webp
       altText: Dope design preview
       type: ImageBlock
     badge:

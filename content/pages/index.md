@@ -251,7 +251,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero3.svg
+      url: /images/Rocket.svg
       altText: Dope design preview
       type: ImageBlock
     badge:

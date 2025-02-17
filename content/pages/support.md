@@ -19,7 +19,7 @@ sections:
           BoostX will be available after being approved for Listing on the
           Chrome Store
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          We want this in your hands as soon as possible. 
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

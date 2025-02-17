@@ -13,7 +13,7 @@ sections:
     subtitle: '@boostx_app'
     items:
       - type: FeaturedItem
-        title: When is BoostX available?
+        title: Wen BoostX?
         tagline: This is the tagline
         subtitle: >-
           BoostX will be available after being approved for Listing on the

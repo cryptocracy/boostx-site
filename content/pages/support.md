@@ -13,7 +13,7 @@ sections:
     subtitle: '@boostx_app'
     items:
       - type: FeaturedItem
-        title: How to do x...
+        title: When is BoostX available?
         tagline: This is the tagline
         subtitle: How do I
         text: |

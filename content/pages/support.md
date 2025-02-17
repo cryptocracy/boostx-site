@@ -15,7 +15,9 @@ sections:
       - type: FeaturedItem
         title: When is BoostX available?
         tagline: This is the tagline
-        subtitle: How do I
+        subtitle: >-
+          BoostX will be available after being approved for Listing on the
+          Chrome Store
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

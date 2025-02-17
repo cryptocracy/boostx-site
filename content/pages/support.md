@@ -43,8 +43,8 @@ sections:
         tagline: This is the tagline
         subtitle: BoostX is not a wallet.
         text: >
-          Transaction data is passed to your existing Wallet (Leather or Xverse)
-          Extension. 
+          Transaction data is passed to your existing Wallet (Leather or
+          Xverse).
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

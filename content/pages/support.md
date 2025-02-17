@@ -42,8 +42,9 @@ sections:
         title: Is BoostX a Wallet?
         tagline: This is the tagline
         subtitle: BoostX is not a wallet.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Transaction data is passed to your existing Wallet (Leather or Xverse)
+          Extension.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

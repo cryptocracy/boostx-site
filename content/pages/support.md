@@ -41,7 +41,7 @@ sections:
       - type: FeaturedItem
         title: Is BoostX a Wallet?
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: BoostX is not a wallet.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

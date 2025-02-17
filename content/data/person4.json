@@ -3,7 +3,6 @@
     "name": "Email",
     "role": "support@",
     "image": {
-        "url": "/images/avatar4.svg",
         "altText": "Nina Mercado",
         "styles": {
             "self": {

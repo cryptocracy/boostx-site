@@ -13,7 +13,7 @@ sections:
     subtitle: '@boostx_app'
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: How to do x...
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |

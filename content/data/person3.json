@@ -1,7 +1,7 @@
 {
     "type": "Person",
     "name": "Direct Message on X",
-    "role": "888-NPA-NXXX",
+    "role": "@boostx_app",
     "image": {
         "url": "/images/avatar3.svg",
         "altText": "Asher Schmitt",

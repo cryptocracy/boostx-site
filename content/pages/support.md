@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Direct Message on X @boostx_app
+      text: Direct Message on X
       color: text-dark
       styles:
         self:

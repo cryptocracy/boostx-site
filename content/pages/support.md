@@ -44,7 +44,7 @@ sections:
         subtitle: BoostX is not a wallet.
         text: >
           Transaction data is passed to your existing Wallet (Leather or Xverse)
-          Extension.
+          Extension. 
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

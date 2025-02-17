@@ -16,8 +16,8 @@ sections:
         title: Wen BoostX?
         tagline: This is the tagline
         subtitle: >-
-          BoostX will be available after being approved for Listing on the
-          Chrome Store.
+          BoostX will be available on the Chrome Store once the listing is
+          reviewed.
         text: |
           We want this in your hands as soon as possible. 
         image:

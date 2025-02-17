@@ -28,7 +28,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Direct Message on X
       color: text-dark
       styles:
         self:

@@ -33,7 +33,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: '@boostx_app'
     items:
       - type: FeaturedItem
         title: Account Executive

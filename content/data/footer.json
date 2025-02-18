@@ -19,7 +19,7 @@
         {
             "type": "Link",
             "label": "Support",
-            "altText": "",
+            "altText": "Support",
             "url": "/support",
             "showIcon": false,
             "icon": "arrowRight",

@@ -15,6 +15,17 @@
             "style": "secondary",
             "type": "Link",
             "altText": "Privacy Link"
+        },
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/support",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "copyrightText": "Powered by Bitcoin & Stacks\n",

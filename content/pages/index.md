@@ -18,7 +18,8 @@ sections:
     actions:
       - label: Get BoostX from Chrome Store
         altText: ''
-        url: /
+        url: >-
+          https://chromewebstore.google.com/detail/boostx/iippmkmobbbbjggfakkcbjgfhgjeineg
         showIcon: false
         icon: arrowRight
         iconPosition: right

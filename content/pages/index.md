@@ -26,15 +26,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - type: Link
-        label: (Coming Soon)
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       url: /images/boostx2.gif
       altText: Unblock your team boost your time to production preview

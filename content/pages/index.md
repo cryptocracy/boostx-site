@@ -237,7 +237,8 @@ sections:
       Bringing the security of Bitcoin to X.
     actions:
       - label: Get BoostX from Chrome Store
-        url: 'https://stacks.co'
+        url: >-
+          https://chromewebstore.google.com/detail/boostx/iippmkmobbbbjggfakkcbjgfhgjeineg
         icon: arrowRight
         iconPosition: right
         style: secondary
